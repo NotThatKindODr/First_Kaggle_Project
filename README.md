@@ -19,6 +19,7 @@ Avocado sales from January 4th, 2015 to November 29th, 2020 from that Hass Avoca
 
 ## Questions to Answer
 ### Which city has the lowest average cost of avocados?
+Pheonix/Tuscon, Dallas/Ft. Worth, and Houston are by far the cheapest places to buy avocados over the past 5 years. Conversely, Hartford/Springfield, San Franscisco, New York, and Boston are the most expensive.
 
 ### Which city has the lowest seasonal variance of avocados?
 
