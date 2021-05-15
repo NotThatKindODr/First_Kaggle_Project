@@ -22,12 +22,15 @@ Avocado sales from January 4th, 2015 to November 29th, 2020 from that Hass Avoca
 Pheonix/Tuscon, Dallas/Ft. Worth, and Houston are by far the cheapest places to buy avocados over the past 5 years. Conversely, Hartford/Springfield, San Franscisco, New York, and Boston are the most expensive.
 
 ![plot1](https://github.com/NotThatKindODr/First_Kaggle_Project/blob/main/plots/Location%20and%20Price.png?raw=true)
-### Which city has the lowest seasonal variance of avocados?
+### Which city has the lowest variance of avocados?
+Pittsburgh has the lowest variance in avocado prices at a SD of about $0.20 and an average price of $1.20. San Francisco has the largest variance with about $0.50 over 5 years and being the second most expesnive with an average price of about $1.30. It is possible that cost of living has changed drastically over the past 4 years in California, driving up the price and causing the big swing in varience. I will investigate that question in the second version of the analysis. 
 
 ### How do the size/type of avocado factor into the lowest average cost?
 
-### Which city is the lowest average cost when controlling for size and type
 
+## Next Steps
+* Look at the price changes over time
+* Apply the model of controlling for size and organic v. non-organic
 
 #### Geography Notes
 **All of US**
