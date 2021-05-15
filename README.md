@@ -25,6 +25,7 @@ Pheonix/Tuscon, Dallas/Ft. Worth, and Houston are by far the cheapest places to 
 ### Which city has the lowest variance of avocados?
 Pittsburgh has the lowest variance in avocado prices at a SD of about $0.20 and an average price of $1.20. San Francisco has the largest variance with about $0.50 over 5 years and being the second most expesnive with an average price of about $1.30. It is possible that cost of living has changed drastically over the past 4 years in California, driving up the price and causing the big swing in varience. I will investigate that question in the second version of the analysis. 
 
+![plot2](https://github.com/NotThatKindODr/First_Kaggle_Project/blob/main/plots/Location%20and%20Varience.png?raw=true)
 ### How do the size/type of avocado factor into the lowest average cost?
 
 
