@@ -30,6 +30,8 @@ Pittsburgh has the lowest variance in avocado prices at a SD of about $0.20 and 
 
 
 ## Next Steps
+* Add National Average to Plot1 by using Total U.S. data
+* Combine Plot1 and Plot2 by adding the SD as error bars on Plot1
 * Look at the price changes over time
 * Apply the model of controlling for size and organic v. non-organic
 
@@ -51,7 +53,7 @@ Pittsburgh has the lowest variance in avocado prices at a SD of about $0.20 and 
 * Plains
 
 ```
-['West' 'Midsouth' 'Northeast' 'Northern New England' 'South Central' 'Southeast' 'Great Lakes' 'Plains']
+['West', 'Midsouth', 'Northeast', 'Northern New England', 'South Central', 'Southeast' 'Great Lakes', 'Plains']
 ```
 
 **Select States**
@@ -60,7 +62,7 @@ Pittsburgh has the lowest variance in avocado prices at a SD of about $0.20 and 
 * South Carolina
 
 ```
-['California' 'West Tex/New Mexico' 'South Carolina']
+['California', 'West Tex/New Mexico', 'South Carolina']
 ```
 
 **Cities**
@@ -107,14 +109,14 @@ Pittsburgh has the lowest variance in avocado prices at a SD of about $0.20 and 
 * Syracuse
 * Tampa
 ```
-['Albany' 'Atlanta' 'Baltimore/Washington' 'Boise' 'Boston'
- 'Buffalo/Rochester' 'Charlotte' 'Chicago'
- 'Cincinnati/Dayton' 'Columbus' 'Dallas/Ft. Worth' 'Denver' 'Detroit'
- 'Grand Rapids' 'Harrisburg/Scranton' 'Hartford/Springfield'
- 'Houston' 'Indianapolis' 'Jacksonville' 'Las Vegas' 'Los Angeles'
- 'Louisville' 'Miami/Ft. Lauderdale' 'Nashville'
- 'New Orleans/Mobile' 'New York'
- 'Orlando' 'Philadelphia' 'Phoenix/Tucson' 'Pittsburgh'
- 'Portland' 'Raleigh/Greensboro' 'Richmond/Norfolk' 'Roanoke' 'Sacramento'
- 'San Diego' 'San Francisco' 'Seattle' 'Spokane' 'St. Louis' 'Syracuse' 'Tampa']
+['Albany', 'Atlanta', 'Baltimore/Washington', 'Boise', 'Boston',
+ 'Buffalo/Rochester', 'Charlotte', 'Chicago',
+ 'Cincinnati/Dayton', 'Columbus', 'Dallas/Ft. Worth', 'Denver', 'Detroit',
+ 'Grand Rapids', 'Harrisburg/Scranton', 'Hartford/Springfield',
+ 'Houston', 'Indianapolis', 'Jacksonville', 'Las Vegas', 'Los Angeles',
+ 'Louisville', 'Miami/Ft. Lauderdale', 'Nashville',
+ 'New Orleans/Mobile', 'New York',
+ 'Orlando', 'Philadelphia', 'Phoenix/Tucson', 'Pittsburgh',
+ 'Portland', 'Raleigh/Greensboro', 'Richmond/Norfolk', 'Roanoke', 'Sacramento',
+ 'San Diego', 'San Francisco', 'Seattle', 'Spokane', 'St. Louis', 'Syracuse', 'Tampa']
  ```
